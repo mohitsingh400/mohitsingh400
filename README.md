@@ -113,4 +113,4 @@ Django &bull; TensorFlow &bull; LangChain &bull; OpenAI API &bull; FAISS
 ## Let's Connect
 
 Open to AI/ML, GenAI, and full-stack roles in Delhi NCR, Noida, or remote.<br>
-Reach me at <a href="mailto:mohitsinghking004@gmail.com">mohitsinghking004@gmail.com</a> or connect on <a href="https://linkedin.com/in/mohit-singh-914771257">LinkedIn</a>.
+Reach me at <a href="mailto:mohitsinghking004@gmail.com">mohitsinghking004@gmail.com</a> or connect on <a href="https://linkedin.com/in/mohit-singh-914771257">LinkedIn</a>..
