@@ -22,7 +22,6 @@ Django &bull; TensorFlow &bull; LangChain &bull; OpenAI API &bull; FAISS
 - Built AI systems using RAG pipelines, medical image analysis (MRI), and LLM-based applications with real-world problem focus
 - Interned at **C-DAC NOIDA** under the Cyber Gyan Project — built an Audio Forensic ML system for tamper detection
 - Campus Ambassador, **E-Cell IIT Bombay** (2024)
-- Runs a YouTube channel: **Tech N Security**
 - Open to: AI/ML Engineer &bull; GenAI Developer &bull; Full-Stack roles (Delhi NCR / Noida / Remote)
 
 <hr>
