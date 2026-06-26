@@ -47,14 +47,6 @@ Django &bull; TensorFlow &bull; LangChain &bull; OpenAI API &bull; FAISS
 
 <hr>
 
-### Audio Forensic ML System
-<p>Built at C-DAC NOIDA under the Cyber Gyan Project. Detects audio tampering using signal processing and machine learning.</p>
-<ul>
-  <li><strong>Tech:</strong> Python, Signal Processing, ML Classification</li>
-  <li><strong>Features:</strong> Frequency analysis, waveform anomaly detection, tamper classification</li>
-</ul>
-
-<hr>
 
 ### PathoMind — Pathology Management System
 <p>Full-stack medical web app for booking lab tests, scheduling appointments, and viewing reports.</p>
@@ -83,14 +75,6 @@ Django &bull; TensorFlow &bull; LangChain &bull; OpenAI API &bull; FAISS
 
 <hr>
 
-### AutoTrader AI — Stock Trend Predictor
-<p>ML-powered stock trend analysis with visual trading simulations.</p>
-<ul>
-  <li><strong>Tech:</strong> Python, Pandas, NumPy, Matplotlib, yFinance</li>
-  <li><strong>Features:</strong> Strategy simulation, real-time market data</li>
-</ul>
-
-<hr>
 
 ## Languages & Tools
 
