@@ -33,7 +33,7 @@ Django &bull; TensorFlow &bull; LangChain &bull; OpenAI API &bull; FAISS
 <ul>
   <li><strong>Tech:</strong> Python, TensorFlow/Keras, VGG16, OpenCV, Django</li>
   <li><strong>Model:</strong> VGG16 transfer learning with Grad-CAM heatmap visualization</li>
-  <li><strong>Deployed:</strong> <a href="https://mohit0004-brain-tumor-classifier.hf.space">Live on Hugging Face Spaces</a></li>
+  <li><strong>Deployed:</strong> <a href="https://mohit0004-brain-tumor-classifier.hf.space">Live Link </a></li>
 </ul>
 
 <hr>
