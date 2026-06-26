@@ -43,6 +43,7 @@ Django &bull; TensorFlow &bull; LangChain &bull; OpenAI API &bull; FAISS
 <ul>
   <li><strong>Tech:</strong> Python, LangChain, FAISS, OpenAI API, Streamlit</li>
   <li><strong>Features:</strong> Document chunking, vector embeddings, semantic search, real-time chat</li>
+  <li><strong>Deployed:</strong> <a href="https://mohit-rag-knowledge-system-hevue3rezhcb2jqdkvn9wr.streamlit.app/">Live on Hugging Face Spaces</a></li>
 </ul>
 
 <hr>
